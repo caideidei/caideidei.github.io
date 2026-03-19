@@ -15,5 +15,19 @@
       <guid>https://caideidei.github.io/post/articles01/</guid>
       <description>&lt;h1 id=&#34;测试文档&#34;&gt;测试文档&lt;/h1&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>https://caideidei.github.io/post/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://caideidei.github.io/post/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://caideidei.github.io/test/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://caideidei.github.io/test/test/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

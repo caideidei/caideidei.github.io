@@ -1,15 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Tests on xiaocai的博客</title>
-        <link>//localhost:1313/test/</link>
-        <description>Recent content in Tests on xiaocai的博客</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Thu, 19 Mar 2026 09:34:02 +0800</lastBuildDate><atom:link href="//localhost:1313/test/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Articles01</title>
-            <link>//localhost:1313/test/articles01/</link>
-            <pubDate>Thu, 19 Mar 2026 09:34:02 +0800</pubDate>
-            <guid>//localhost:1313/test/articles01/</guid>
-            <description>&lt;h1 id=&#34;测试文档&#34;&gt;测试文档&#xA;&lt;/h1&gt;</description>
-        </item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tests on </title>
+    <link>https://caideidei.github.io/test/</link>
+    <description>Recent content in Tests on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://caideidei.github.io/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://caideidei.github.io/test/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://caideidei.github.io/test/test/</guid>
+      <description></description>
+    </item>
+  </channel>
 </rss>
