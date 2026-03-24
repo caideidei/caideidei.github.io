@@ -6,14 +6,27 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 09:34:02 +0800</lastBuildDate>
     <atom:link href="https://caideidei.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Articles01</title>
-      <link>https://caideidei.github.io/post/articles01/</link>
-      <pubDate>Thu, 19 Mar 2026 09:34:02 +0800</pubDate>
-      <guid>https://caideidei.github.io/post/articles01/</guid>
-      <description>&lt;h1 id=&#34;测试文档&#34;&gt;测试文档&lt;/h1&gt;</description>
+      <title></title>
+      <link>https://caideidei.github.io/post/%E5%9F%BA%E9%87%91/%E4%B8%80%E4%B8%AA%E5%88%9A%E4%BA%86%E8%A7%A3%E5%9F%BA%E9%87%91%E7%9A%84%E5%B0%8F%E7%99%BD%E7%9A%84%E8%87%AA%E8%A8%80%E8%87%AA%E8%AF%AD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://caideidei.github.io/post/%E5%9F%BA%E9%87%91/%E4%B8%80%E4%B8%AA%E5%88%9A%E4%BA%86%E8%A7%A3%E5%9F%BA%E9%87%91%E7%9A%84%E5%B0%8F%E7%99%BD%E7%9A%84%E8%87%AA%E8%A8%80%E8%87%AA%E8%AF%AD/</guid>
+      <description>&lt;h1 id=&#34;一个刚了解基金的小白的自言自语&#34;&gt;一个刚了解基金的小白的自言自语&lt;/h1&gt;&#xA;&lt;p&gt;接触基金有一阵子了，从一开始被场内场外、指数主动这些词绕晕，到慢慢了解底层逻辑，踩了些认知误区，也记了不少实用知识点，索性整理成笔记，方便自己后续回顾，也算是给自己的入门功课做个总结。当然，本篇文章纯纯个人看法，也是写给以后的自己看的，如果有幸被您看到，不要在意我后面瞎说而说错的内容（叠甲哈哈哈）。&lt;/p&gt;&#xA;&lt;h3 id=&#34;一搞懂基金的核心逻辑赚的是底层资产的钱和买的人多少无关&#34;&gt;一、搞懂基金的核心逻辑：赚的是底层资产的钱，和买的人多少无关&lt;/h3&gt;&#xA;&lt;p&gt;最开始我误以为买基金的人越多，基金就越赚钱，后来才发现这是大错特错。&lt;strong&gt;基金的本质，就是把大家的钱凑在一起，交给专业的基金经理去投各种标的&lt;/strong&gt;，这些标的就是&lt;strong&gt;底层资产&lt;/strong&gt;，基金的涨亏完全由底层资产的表现决定，跟申购人数一点关系都没有。哪怕买的人再多，底层资产跌了，基金照样亏；反之，买的人少，资产涨了，基金还是能赚钱。&lt;/p&gt;&#xA;&lt;p&gt;基金的底层资产主要分四类，风险和收益层级很清晰，也是判断一只基金风险高低的核心依据：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;股票：高风险高潜在收益，基金买的股票涨了、公司分红了，这部分资产就增值；&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;债券&lt;/strong&gt;：中低风险稳收益，本质就是企业 / 机构的 &lt;strong&gt;“借条”，收益主要靠利息&lt;/strong&gt;，偶尔有债券价格波动的收益，也有听说把钱借出去公司跑了的情况，虽然比较稳定但也有风险；&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;大宗商品&lt;/strong&gt;：主要就是黄金、白银，风险和股票差不多，没有利息和分红，&lt;strong&gt;纯赚价格涨跌的差价&lt;/strong&gt;；&lt;/li&gt;&#xA;&lt;li&gt;货币类资产：银行存款、国债、央行票据这些，低风险低收益，&lt;strong&gt;余额宝其实就是货币基金&lt;/strong&gt;，年化大概 1% 左右，适合放零钱。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;这四类资产的风险排序要记牢：&lt;strong&gt;股票≥大宗商品＞债券＞货币类资产&lt;/strong&gt;。基金经理的作用只是筛选和配置这些资产，再厉害的经理，也拗不过底层资产的整体下跌，比如股市熊市，股票型基金大概率都会亏。&lt;/p&gt;&#xA;&lt;h3 id=&#34;二基金的两大核心分类分清就不会乱选&#34;&gt;二、基金的两大核心分类，分清就不会乱选&lt;/h3&gt;&#xA;&lt;p&gt;基金分类看着多，其实掌握最实用的两种就够了，一个看投资标的，一个看投资方式，能快速定基金的性质和风险。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2.1 按投资标的分：看持仓比例&lt;/strong&gt;，直接定风险等级&lt;/p&gt;&#xA;&lt;p&gt;这是最直观的分类，核心看股票和债券的持仓占比，不同类型的年化和亏损幅度差很多，适合根据自己的风险承受能力选：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;股票型&lt;/strong&gt;基金：股票持仓≥80%，长期平均年化约 12%，但&lt;strong&gt;风险最高&lt;/strong&gt;，最大亏损能到 60%，A 股牛熊波动里，涨跌特别明显；&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;混合型&lt;/strong&gt;基金：股票持仓 20%-80%，介于股票型和债券型之间，基金经理能根据市场调仓位，操作空间大，长期年化约 8%，最大亏损 25% 左右，&lt;strong&gt;平衡风险&lt;/strong&gt;和收益的话选这个很合适；&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;债券型&lt;/strong&gt;基金：债券持仓≥80%，股票持仓＜20%，前几年年化能到 4%-5%，近年回落了，平均 3% 左右，长期持有 1 年的话，亏损概率几乎没有，适合&lt;strong&gt;保守型&lt;/strong&gt;投资；&lt;/li&gt;&#xA;&lt;li&gt;货币型基金：只投货币类资产，几乎没亏损风险，年化 1% 左右，随取随用，放备用金再合适不过。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;2.2 按投资方式分：主动和被动&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;这个分类决定了基金收益靠 “人” 还是靠 “规则”，目前买的比较多的比如黄金纳指都是按照某种规则来的，所以都算被动。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;主动基金：基金经理凭自己的专业判断选股票、债券，盈亏全看经理的水平，不同经理业绩差超多，有的年赚 50%，有的能亏 30%，所以这种找好人很重要；&lt;/li&gt;&#xA;&lt;li&gt;被动基金（指数基金）：不用基金经理主观选股，按提前定好的&lt;strong&gt;固定规则&lt;/strong&gt;挑股票，比如 “沪深交易所市值最大的 300 家公司”，经理只需要按规则执行，个人认为比较稳一点。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;三相关概念&#34;&gt;三、相关概念&lt;/h3&gt;&#xA;&lt;h4 id=&#34;31--核心交易规则&#34;&gt;3.1  核心交易规则&lt;/h4&gt;&#xA;&lt;p&gt;我们平时在支付宝、天天基金等平台买的基金，都是&lt;strong&gt;场外基金&lt;/strong&gt;，交易规则和股票不同，核心记住一个时间：&lt;strong&gt;下午 3 点&lt;/strong&gt;（交易日，即除节假日外的周一至周五）：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;下午 3 点前提交买入 / 卖出申请，按&lt;strong&gt;当天收盘后的基金净值&lt;/strong&gt;成交，下一个交易日确认持仓；&lt;/li&gt;&#xA;&lt;li&gt;下午 3 点后提交申请，算&lt;strong&gt;下一个交易日&lt;/strong&gt;的操作，按次日的净值成交；&lt;/li&gt;&#xA;&lt;li&gt;比如周一下午 2 点买基金，按周一净值成交；周一下午 4 点买，就按周二净值成交，若周二是节假日，就顺延到节后第一个交易日。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;基金赎回后，资金普遍 2 天到账（之前还一直以为这个晚两天就是在后两天的时候买入，并不是，而是根据买入当日来确定的，这个晚两天只是两天后才能看到对应的信息）。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://caideidei.github.io/post/%E5%9F%BA%E9%87%91/%E5%9F%BA%E9%87%91%E5%AD%A6%E4%B9%A0day2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://caideidei.github.io/post/%E5%9F%BA%E9%87%91/%E5%9F%BA%E9%87%91%E5%AD%A6%E4%B9%A0day2/</guid>
+      <description>&lt;h1 id=&#34;基金学习day2&#34;&gt;基金学习day2&lt;/h1&gt;&#xA;&lt;h3 id=&#34;1债券&#34;&gt;1、债券&lt;/h3&gt;&#xA;&lt;p&gt;债券相当于把钱借给别人，借的越久，风险越高，收益越高。同时借给国家会比私企稳定。但是这个收益不会非常高，比不上股票那种，基本一年都是百分之几这种。&lt;/p&gt;&#xA;&lt;p&gt;其中分类一般是分为两类，利率债和信用债，利率债是给国家，信用债是给企业。&lt;/p&gt;&#xA;&lt;h3 id=&#34;2基金经理&#34;&gt;2、基金经理&lt;/h3&gt;&#xA;&lt;p&gt;有限选取 &lt;strong&gt;从业时长大于 7 年&lt;/strong&gt;，经历一轮牛熊能看出操盘水平；&lt;strong&gt;年化收益大于 10%&lt;/strong&gt;；&lt;strong&gt;管理规模在 20 - 200 亿&lt;/strong&gt;之间，规模过大影响超额收益。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://caideidei.github.io/post/%E8%AF%BB%E4%B9%A6%E8%AE%B0/%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://caideidei.github.io/post/%E8%AF%BB%E4%B9%A6%E8%AE%B0/%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2-10/</guid>
+      <description>&lt;h1 id=&#34;金钱的力量&#34;&gt;金钱的力量&lt;/h1&gt;&#xA;&lt;p&gt;2026.3.24  天气雨&lt;/p&gt;&#xA;&lt;p&gt;今天是第一天开始记录读书记，分享一点自己的见解，因为刚开始，所以可能只会输出一点东西，但是还是希望保持下去，养成良好习惯，现在开始。&lt;/p&gt;&#xA;&lt;p&gt;《人类简史》第十章 “金钱的力量”，里面说金钱能换东西，还好保存、方便带，所以从贝壳、大麦变成了金银，后来又有了纸币。以前没金钱的时候，种苹果的、修鞋的、医生这些不同职业，他们的东西值多少没法衡量，比如一双鞋能换几个苹果都说不准。有了金钱就不一样了，能轻松衡量价值，经济也能顺畅运转。而且大家得信任金钱才行，要是不信黄金白银，那它们就跟普通石头没啥区别。这让我想到之前有人卖图片、卖头像，不也是用金钱来算它们值多少钱嘛。所以说，金钱在人类发展史上真挺重要的，算是个里程碑式的东西。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
